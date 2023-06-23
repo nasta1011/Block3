@@ -1,7 +1,7 @@
 
 # Block3
 
-Calcilator
+Calculator
 
 Задание 19.2.4
 
